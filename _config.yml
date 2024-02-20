@@ -17,7 +17,7 @@ timezone:
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: https://yoursite.com
+url: https://jade-cascaron-9d137c.netlify.app
 root: /
 permalink: :lang/:year/:month/:day/:title/
 permalink_defaults:
